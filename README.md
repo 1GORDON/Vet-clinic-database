@@ -1,6 +1,12 @@
 ## Vet Clinic Database
 
-This is relational database to create the initial data structure for a vet clinic. I will create a table to store animals' information, insert some data into it, and query it.
+In this project, I acheived the following.
+- Added a column species of type string to the animals table.
+- Modified the schema.sql file.
+- Added extra insertions to your data.sql file.
+- Created a transactions file.
+- Performed BEGIN, SAVEPOINT, COMMIT, and ROLLBACK transactions on data.
+- Added queries to answer questions in the queries.sql file.
 
 ## Getting Started
 
