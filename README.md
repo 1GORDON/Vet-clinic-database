@@ -1,12 +1,14 @@
 ## Vet Clinic Database
 
 In this project, I acheived the following.
-- Added a column species of type string to the animals table.
-- Modified the schema.sql file.
-- Added extra insertions to your data.sql file.
-- Created a transactions file.
-- Performed BEGIN, SAVEPOINT, COMMIT, and ROLLBACK transactions on data.
-- Added queries to answer questions in the queries.sql file.
+- Created table owners.
+- Created table species.
+- Modified animals table.
+- Inserted data into owners table.
+- Inserted data into species table.
+- Modified the inserted animals so it includes the species_id value.
+- Modified the inserted animals to include owner information (owner_id).
+- Updated the queries.sql file using JOIN.
 
 ## Getting Started
 
