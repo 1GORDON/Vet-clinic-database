@@ -1,14 +1,13 @@
 ## Vet Clinic Database
 
 In this project, I acheived the following.
-- Created table owners.
-- Created table species.
-- Modified animals table.
-- Inserted data into owners table.
-- Inserted data into species table.
-- Modified the inserted animals so it includes the species_id value.
-- Modified the inserted animals to include owner information (owner_id).
-- Updated the queries.sql file using JOIN.
+- Created table vets.
+- Created join-table specilizations.
+- Created join-table visits.
+- Inserted data into vets table.
+- Inserted data into specilizations table.
+- Inserted data into visits table.
+- Added queries for join table visits.
 
 ## Getting Started
 

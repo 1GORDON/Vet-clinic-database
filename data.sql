@@ -239,7 +239,7 @@ INSERT INTO vets (
     ('Vet Stephanie Mendez', 64, '1981-5-4'),
     ('Vet Jack Harkness', 38, '2008-6-8');
 
---Insert data for specialization
+--Insert data for specializations
 
 INSERT INTO specializations (
     species_id,
